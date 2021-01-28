@@ -1,0 +1,16 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for The Good front end development role",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development npx parcel src/index.html"
+  },
+  "author": "The Good",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "open": "^7.3.1",
+    "parcel": "^1.12.4"
+  }
+}
