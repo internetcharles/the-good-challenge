@@ -1,6 +1,6 @@
 # Ice Cream Flavor Challenge
 
-Front end A/B testing demands a strong working knowledge asynchronous JavaScript and DOM manipulation. There are often many different ways to achieve the same result.
+Front end A/B testing demands a strong working knowledge of asynchronous JavaScript and DOM manipulation. There are often many different ways to achieve the same result.
 
 Clone this repository and push your solutions to your own GitHub account. See email for submission instructions.
 
