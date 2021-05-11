@@ -4,7 +4,7 @@ var flavors = "LOADING!";
 document.addEventListener('DOMContentLoaded', function() {
   var div = document.createElement('div');
   div.id = 'flavors';
-  div.innerHTML = `LOADING!`;
+  div.innerHTML = 'LOADING!';
 
   document.body.appendChild(div);
 }, false);
